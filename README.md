@@ -6,7 +6,7 @@ It is a SPA that shows random comics from XKCD using their JSON API (https://xkc
 git clone https://github.com/broccolinisoup/xkcd.git
 ```
 
-#Install Dependencies
+# Install Dependencies
 
 ## Server Side Dependencies
 
@@ -22,7 +22,7 @@ Run this command inside the `client` directory to install dependencies for clien
 yarn
 ```
 
-## Running The App
+# Running The App
 
 Run these commands in different tabs inside the root directory:
 
@@ -34,6 +34,6 @@ node server.js
 yarn dev
 ```
 
-## Browsing the App
+# Browsing the App
 
 Go to `localhost:3000` to have some fun
