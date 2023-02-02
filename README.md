@@ -2,6 +2,8 @@ It is a SPA that shows random comics from XKCD using their JSON API (https://xkc
 
 # Cloning the repository
 
+# Cloning the repository
+
 ```bash
 git clone https://github.com/broccolinisoup/xkcd.git
 ```
